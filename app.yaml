@@ -34,7 +34,7 @@ metadata:
   namespace: appbuilder-marathon6444
 spec:
   selector:
-    app: frontend
+    app: frontend-appbuilder
   ports:
     - protocol: TCP
       port: 80          # External port exposed for the service
